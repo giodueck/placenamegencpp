@@ -31,7 +31,7 @@ std::string getPlaceName()
             else
                 finishedName += "gle";
         } else if (c == 'n' or c == 'd')
-            finishedName == "dle";
+            finishedName += "dle";
         else if (c == 's')
             finishedName += "tle";
     }
